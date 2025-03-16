@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Julian+Li!)](https://git.io/typing-svg) https://private-user-images.githubusercontent.com/106186118/256637995-a3fcde95-becd-42bb-bafe-dc96eba95161.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxMjQyNjQsIm5iZiI6MTc0MjEyMzk2NCwicGF0aCI6Ii8xMDYxODYxMTgvMjU2NjM3OTk1LWEzZmNkZTk1LWJlY2QtNDJiYi1iYWZlLWRjOTZlYmE5NTE2MS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNlQxMTE5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzUzNGE5MjgyZDc0OGM4MzM3ZDM5NDYxNGI0Y2Y4M2M5YjRlYjYxODYzMWE5ZjkyNjkzMDM0ZGMzNWVhZTgyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lCMDisAl-_p8PuN1--XP0eNoC55vwhStKNDAAAVSaXs
 <!--
 **julianli00/julianli00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
