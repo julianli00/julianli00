@@ -5,3 +5,9 @@
   
   <i>At the moment, I'm learning more about Natural Language Processing for Low-Resource Languages, Machine Learning, and Deep Learning<i></i>.  
 </p>
+
+<p align="center">
+  👨‍🎓 <b>Master @ UBC</b> • Data Science • Computational Linguistics <br>
+  🎓 <b>Bachelor @ Tongji University</b> • Statistics & Mathematics <br>
+  🏫 <b>High School @ 西北工业大学附属中学</b> <br><br>
+</p> 
