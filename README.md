@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  👨‍🎓 <b>Master @ UBC</b> • Data Science • Computational Linguistics <br>
-  🎓 <b>Bachelor @ Tongji University</b> • Statistics & Mathematics <br>
-  🏫 <b>High School @ 西北工业大学附属中学</b> <br><br>
+👨‍🎓 <b>MSc @ UBC</b> • Data Science (NLP) <br>
+🎓 <b>BSc @ Tongji University</b> • Mathematics (Statistics) <br>
 </p> 
